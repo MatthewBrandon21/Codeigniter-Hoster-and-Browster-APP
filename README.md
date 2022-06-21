@@ -11,7 +11,9 @@ Browster is app that we can rent something like game console by given time and p
 
 - Codeigniter
 - MySQL Database
+- 2 user role (admin and customer)
 - Session Auth
+- Self generated Captcha
 - AdminLTE & bootstrap for frontend
 - CRUD function
 - PDF Invoice maker
